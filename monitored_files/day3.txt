@@ -1,0 +1,916 @@
+Choose the alternative which closely resembles the mirror-image of the given combination:
+
+ GEOGRAPHY
+
+
+
+Question 1Answer
+
+a.
+(2)
+
+
+b.
+(3)
+
+
+c.
+(4)
+
+
+d.
+(1)
+Choose the correct water image of the given image of the Fig.(X) from amongst the four alternatives (1), (2), (3) and (4) given along with it.
+
+
+
+Question 2Answer
+
+a.
+(3)
+
+
+b.
+(4)
+
+
+c.
+(2)
+
+
+d.
+(1)
+Find the missing term in the series given below:
+
+40, 24, 16, 12, 10, 9, ____
+
+Question 3Answer
+
+a.
+None of these
+
+
+b.
+7.5
+
+
+c.
+8.5
+
+
+d.
+8
+From the Response Figure (1), (2), (3), (4) identify the one which completes the pattern given in the problem figure.
+
+
+
+Question 4Answer
+
+a.
+(3)
+
+
+b.
+(2)
+
+
+c.
+(4)
+
+
+d.
+(1)
+If '245' means 'Art and Talent' in a certain code language, '316' means 'Callous to Generous', '147' means 'Callous and Polite' then what is the code used for 'to'?
+
+Question 5Answer
+
+a.
+Only 1
+
+
+b.
+Only 6
+
+
+c.
+Only 3
+
+
+d.
+3 or 6
+If KEDGY is coded as EKDYG then how will LIGHT be coded?
+Question 6Answer
+
+a.
+ILGTH
+
+b.
+THGIL
+
+c.
+ILGHT
+
+d.
+ILHTG
+If MACHINE is coded as 19-7-9-14-15-20-11. How will you code DANGER?
+Question 7Answer
+
+a.
+10-7-20-13-11-24
+
+b.
+11-7-20-16-11-24
+
+c.
+13-7-20-10-11-25
+
+d.
+13-7-20-9-11-25
+If REASON is coded as 5 and BELIEVED as 7, what is the code number for GOVERNMENT?
+Question 8Answer
+
+a.
+8
+
+b.
+10
+
+c.
+9
+
+d.
+7
+Mark the odd one out from the given options.
+Question 9Answer
+
+a.
+Rehearsed
+
+b.
+Premeditated
+
+c.
+Spontaneous
+
+d.
+Calculated
+Mark the odd one out from the given options.
+Question 10Answer
+
+a.
+E20
+
+b.
+J25
+
+c.
+D15
+
+d.
+A10
+Mark the option that best completes the comparison:
+
+Glamour : Stardom :: Colour : ?
+
+Question 11Answer
+
+a.
+Painting
+
+
+b.
+Rainbow
+
+
+c.
+Art
+
+
+d.
+Shades
+Mark the option that best completes the comparison:
+
+Introvert : Extrovert :: Against : ?
+
+Question 12Answer
+
+a.
+Tangent
+
+
+b.
+Extreme
+
+
+c.
+Favour
+
+
+d.
+Law
+Mark the option that most logically completes the following sequence.
+
+
+
+Question 13Answer
+
+A.
+C
+
+
+B.
+B
+
+
+C.
+D
+
+
+D.
+A
+What comes next in the series given?
+
+122343456
+
+Question 14Answer
+
+a.
+6789
+
+
+b.
+34567
+
+
+c.
+45678
+
+
+d.
+None of these
+Which of the given options is the most suitable for completing the following series?
+
+2, 3, 5, 7, 11, ___, 17, 19, 23, 29, 31
+
+Question 15Answer
+
+a.
+12
+
+
+b.
+13
+
+
+c.
+14
+
+
+d.
+15
+How is 'No' coded in the code language?
+
+Statement 1: Ne Pa Sic Lo' means 'But No None And' and 'Pa Lo Le Ne' means 'If None And But'.
+
+Statement 2: 'Le Se Ne Sic' means 'If No None Will' and 'Le Pi Se Be' means 'Not None If All'.
+
+Question 16Answer
+
+a.
+statements 1 and 2 together are not sufficient, and additional data is needed to answer the question
+
+
+b.
+statement 2 alone is sufficient, but statement 1 alone is not sufficient to answer the question
+
+
+c.
+each statement alone is sufficient to sufficient to answer the question
+
+
+d.
+statement 1 alone is sufficient, but statement 2 alone is not sufficient to answer the question
+
+
+e.
+both statements taken together are sufficient to answer the question, but neither statement alone is sufficient to answer the question
+How many visitors saw the exhibition yesterday?
+
+Statement 1: Each entry pass holder can take up to three persons with him/her.
+
+Statement 2: In all, 243 passes were sold yesterday.
+
+Question 17Answer
+
+a.
+each statement alone is sufficient to sufficient to answer the question
+
+
+b.
+statement 1 alone is sufficient, but statement 2 alone is not sufficient to answer the question
+
+
+c.
+statements 1 and 2 together are not sufficient, and additional data is needed to answer the question
+
+
+d.
+statement 2 alone is sufficient, but statement 1 alone is not sufficient to answer the question
+
+
+e.
+both statements taken together are sufficient to answer the question, but neither statement alone is sufficient to answer the question
+Ranbir, Ranveer, Randheer, Ranjeet and Rajbeer maintain ranking for batting and bowling. The ranking was in descending order. Rajbeer, who was ranked first in batting, was last in bowling. Randheer had the same ranking in both and was just above Rajbeer in bowling. In batting, Ranbir was just above Ranjeet but in bowling, he was in the middle and he bowed after Ranveer. Who was ranked first as a bowler?
+
+Question 18Answer
+
+a.
+None of these
+
+
+b.
+Ranveer
+
+
+c.
+Rajbeer
+
+
+d.
+Randheer
+Read the flowchart given below and answer the answer the questions that follow:
+
+
+
+ 
+
+P-> Add: (number in Box 9) + (number in Box 6). Put the result in Box 3.
+
+Q-> Is (number in Box 2) < (number in Box 3)?
+
+R-> Divide: (number in Box 1) / (number in Box 4). Put the result in Box 10.
+
+S-> Add: (number in Box 10) + (number in Box 5). Put the result in Box 8.
+
+T-> Multiply: (number in Box 8) * (number in Box 4). Put the result in Box 7.
+
+Find the value of {(number in Box 10) + (number in Box 6)} at the end of the flowchart.
+
+Question 19Answer
+
+a.
+2
+
+
+b.
+-4
+
+
+c.
+-2
+
+
+d.
+4
+Read the flowchart given below and answer the answer the questions that follow:
+
+
+
+ 
+
+P-> Add: (number in Box 9) + (number in Box 6). Put the result in Box 3.
+
+Q-> Is (number in Box 2) < (number in Box 3)?
+
+R-> Divide: (number in Box 1) / (number in Box 4). Put the result in Box 10.
+
+S-> Add: (number in Box 10) + (number in Box 5). Put the result in Box 8.
+
+T-> Multiply: (number in Box 8) * (number in Box 4). Put the result in Box 7.
+
+At the end of the flowchart which of the following boxes will have the lowest value?
+
+Question 20Answer
+
+a.
+Box 7
+
+
+b.
+Box 10
+
+
+c.
+Box 8
+
+
+d.
+Box 2
+Statement: Don’t park here. If you violate this no-parking sign, a penalty of Rs. 5000 will be charged.
+
+Conclusions:
+
+I. The same penalty is charged for every wrong parking offence.
+
+II. This warning is written outside all non-parking zones.
+
+Question 21Answer
+
+a.
+only conclusion II follows
+
+
+b.
+only conclusion I follows
+
+
+c.
+neither I nor II follows
+
+
+d.
+both conclusions I and II follow
+Statement: In the absence of Ravi, Sunil will be teaching mathematics in XYZ.
+
+Assumptions:
+
+I. XYZ has only two teachers of mathematics.
+
+II. Ravi is better than Sunil.
+
+Question 22Answer
+
+a.
+Both I and II are implicit
+
+
+b.
+Only assumption II is implicit
+
+
+c.
+Neither I nor II is implicit.
+
+
+d.
+Only assumption I is implicit
+Statement: The present condition of law and order is the worst of all time.
+
+Assumptions:
+
+I. The present government does not pay heed to the requirements of maintaining law and order. 
+
+II. In earlier days, the law and order condition was better.
+
+Question 23Answer
+
+a.
+Only assumption II is implicit
+
+
+b.
+Neither I nor II is implicit.
+
+
+c.
+Only assumption I is implicit
+
+
+d.
+Both I and II are implicit
+Statement: Whenever there is a match between India and Pakistan, Mr. Vinay takes leave from his office. Mr. Vinay is in office today.
+
+Conclusions:
+
+I. There is no match between India and Pakistan today.
+
+II. Mr. Kumar always goes to his office except on India-Pakistan match days.
+
+Question 24Answer
+
+a.
+both conclusions I and II follow
+
+
+b.
+only conclusion I follows
+
+
+c.
+neither I nor II follows
+
+
+d.
+only conclusion II follows
+Statements: All stereos are cds. Some stereos are cassettes. Some CDs are pens.
+
+Conclusions:
+
+I. Some pens are stereos.
+
+II. Some CDs are cassettes.
+
+III. Some pens are cassettes.
+
+IV. All stereos are pens.
+
+Question 25Answer
+
+a.
+None of these
+
+
+b.
+Either I or IV follows
+
+
+c.
+Only II follows
+
+
+d.
+Only II and III follow
+
+
+e.
+Either I or IV and II follow
+Statements: Some cakes are bikes. Some bikes are hills. All laptops are bikes.
+
+Conclusions:
+
+I. All laptops are hills.
+
+II. Some laptops are cakes.
+
+III. Some cakes are hills.
+
+IV. Some laptops are not cakes.
+
+Question 26Answer
+
+a.
+None of these
+
+
+b.
+Only either II or IV follows
+
+
+c.
+Only either I or III follows
+
+
+d.
+Only I and IV follow
+
+
+e.
+Only conclusion I follows
+There were six participants - M, N, O, P, Q and R in the final of coffee making competitions. The six participants belong to six different locations - Delhi, Mumbai, New York, Paris, Tokyo and London. David, the judge of this competition, rated the coffee prepared by the participants on a scale of 1 to 10 giving a unique rating to each participant. R was from London. Participants from New York got the highest ranking, but was not O. Only two participants got ratings in even numbers. The rating of O was double the rating of Q. N got the minimum rating and the rating was an even number. O got a higher rating than M. What was the second highest rating given?
+Question 27Answer
+
+a.
+7
+
+b.
+9
+
+c.
+8
+
+d.
+6
+There were six participants - M, N, O, P, Q and R in the final of coffee making competitions. The six participants belong to six different locations - Delhi, Mumbai, New York, Paris, Tokyo and London. David, the judge of this competition, rated the coffee prepared by the participants on a scale of 1 to 10 giving a unique rating to each participant. R was from London. Participants from New York got the highest ranking, but was not O. Only two participants got ratings in even numbers. The rating of O was double the rating of Q. N got the minimum rating and the rating was an even number. O got a higher rating than M. What was the rating of coffee prepared by Q?
+Question 28Answer
+
+a.
+6
+
+b.
+3
+
+c.
+5
+
+d.
+2
+There were six participants - M, N, O, P, Q and R in the final of coffee making competitions. The six participants belong to six different locations - Delhi, Mumbai, New York, Paris, Tokyo and London. David, the judge of this competition, rated the coffee prepared by the participants on a scale of 1 to 10 giving a unique rating to each participant. R was from London. Participants from New York got the highest ranking, but was not O. Only two participants got ratings in even numbers. The rating of O was double the rating of Q. N got the minimum rating and the rating was an even number. O got a higher rating than M. Who belongs to New York?
+Question 29Answer
+
+a.
+Cannot be determined
+
+b.
+M
+
+c.
+Q
+
+d.
+P
+There were six participants - M, N, O, P, Q and R in the final of coffee making competitions. The six participants belong to six different locations - Delhi, Mumbai, New York, Paris, Tokyo and London. David, the judge of this competition, rated the coffee prepared by the participants on a scale of 1 to 10 giving a unique rating to each participant. R was from London. Participants from New York got the highest ranking, but was not O. Only two participants got ratings in even numbers. The rating of O was double the rating of Q. N got the minimum rating and the rating was an even number. O got a higher rating than M. Which of the following statements is definitely true?
+Question 30Answer
+
+a.
+P got a rating of 10
+
+b.
+M got a rating of 5
+
+c.
+O belongs to Mumbai
+
+d.
+Q belongs to Paris
+Choose the best replacement for the bold part of the sentence.
+
+Kenny’s contribution is often ignored, but the new boss has taken note of his hard work.
+
+Question 31Answer
+
+a.
+Is frequently ignored
+
+
+b.
+Was often ignored
+
+
+c.
+Was being ignored
+
+
+d.
+Often is ignored
+Choose the correct antonym for the word CHIVALROUS.
+Question 32Answer
+
+a.
+Virile
+
+b.
+Despicable
+
+c.
+Gallant
+
+d.
+Mannish
+Choose the correct synonym for the word FURTIVE.
+Question 33Answer
+
+a.
+Secret
+
+b.
+Open-handed
+
+c.
+Blunt
+
+d.
+Overt
+Choose the correct synonym for the word MUZZLE.
+Question 34Answer
+
+a.
+Banish
+
+b.
+Arrest
+
+c.
+Stop from speaking
+
+d.
+Hug
+Read the passage given below and answer the questions that follow.
+
+The savory smell. The crunchy bite. The salty kick. The buttery finish. Americans will recognize the smell and flavor of their favorite movie going snack anywhere. Why is it that we feast our taste buds on these crisp kernels while our eyes feast on the big screen? A few converging aspects made popcorn the quintessential movie snack, according to Andrew F. Smith, author of Popped Culture: A Social History of Popcorn in America. Mostly, it boiled down to the snack’s price, convenience, and timing. Popcorn was cheap for sellers and for customers, and making it didn’t require a ton of equipment. Popcorn also became popular at a time when movie theatres were in desperate need of an economic boost, which is how popcorn got introduced to the silver screen. Fun fact: popcorn does not refer to the popped kernel alone. It’s also the name for the specific type of corn that is used to make the snack. It was originally grown in Central America and became popular in the U.S. in the mid-1800s. Compared with other snacks at the time, it was super easy to make, and it got easier in 1885 when the mobile steam-powered popcorn maker was invented. What hit the streets in the late 19th century was a fleet of independent popcorn purveyors. They were like the great-great-grandfathers of food trucks.
+
+Choose the option that is closest in meaning to the word “quintessential” as used in the passage.
+
+Question 35Answer
+
+a.
+Attractive
+
+
+b.
+Tasty
+
+
+c.
+Typical
+
+
+d.
+Curious
+He was accused of ________ because he had not paid his taxes.
+Question 36Answer
+
+a.
+Insurgency
+
+b.
+Infraction
+
+c.
+Audacity
+
+d.
+Hypocrisy
+Identify the part of the sentence that has an error. If the sentence is error-free, choose option 5.
+
+Our aim is to connect (1) rural India and, in three years, (2) to have all Panchayats connected (3) by broadband beside achieving a rural density (4) of 40 percent.
+
+Question 37Answer
+
+a.
+(1)
+
+
+b.
+No error
+
+
+c.
+(3)
+
+
+d.
+(4)
+
+
+e.
+(2)
+Identify the part of the sentence that has an error. If the sentence is error-free, choose option 5.
+
+ The deficiency rainfall (1) has led to reduction (2) in Kharif sowing, fuelling fears of (3) high food prices in the coming months. (4)
+
+Question 38Answer
+
+a.
+No error
+
+
+b.
+(1)
+
+
+c.
+(2)
+
+
+d.
+(3)
+
+
+e.
+(4)
+Read the passage given below and answer the questions that follow.
+
+The savory smell. The crunchy bite. The salty kick. The buttery finish. Americans will recognize the smell and flavor of their favorite movie going snack anywhere. Why is it that we feast our taste buds on these crisp kernels while our eyes feast on the big screen? A few converging aspects made popcorn the quintessential movie snack, according to Andrew F. Smith, author of Popped Culture: A Social History of Popcorn in America. Mostly, it boiled down to the snack’s price, convenience, and timing. Popcorn was cheap for sellers and for customers, and making it didn’t require a ton of equipment. Popcorn also became popular at a time when movie theatres were in desperate need of an economic boost, which is how popcorn got introduced to the silver screen. Fun fact: popcorn does not refer to the popped kernel alone. It’s also the name for the specific type of corn that is used to make the snack. It was originally grown in Central America and became popular in the U.S. in the mid-1800s. Compared with other snacks at the time, it was super easy to make, and it got easier in 1885 when the mobile steam-powered popcorn maker was invented. What hit the streets in the late 19th century was a fleet of independent popcorn purveyors. They were like the great-great-grandfathers of food trucks.
+
+Popcorn became popular in movie halls because:
+
+Question 39Answer
+
+a.
+It was tasty yet cheap for customers.
+
+
+b.
+None of the mentioned options
+
+
+c.
+It was cheap and easy to make.
+
+
+d.
+It was imported from Central America.
+Rearrange the given phrases to form a complete sentence. Note: The phrases numbered 1 and 6 are fixed.
+
+1. Yet so few of us have 
+
+A. walls of daily routine
+
+B. the time or the means
+
+C. that enclose our lives
+
+D. to break through the narrow
+
+6. to get to know this land
+
+Question 40Answer
+
+a.
+DBAC
+
+
+b.
+BDCA
+
+
+c.
+ABDC
+
+
+d.
+BDAC
+Replace the bold part in the following sentence with the most suitable option.
+
+It was time to be stood on her own two feet.
+
+Question 41Answer
+
+a.
+stand
+
+
+b.
+stood
+
+
+c.
+standing
+
+
+d.
+be standing
+The jury told him to stop prevaricating because they were ________ of his statements.
+Question 42Answer
+
+a.
+Acerbic
+
+b.
+Irritated
+
+c.
+Sceptical
+
+d.
+Intransigent
+The President described the series of bomb blasts as a ________ act.
+Question 43Answer
+
+a.
+Barbaric
+
+b.
+Judicious
+
+c.
+Deriding
+
+d.
+Lavish
+The sentences given below form a coherent passage when arranged logically. Choose the option which gives the correct sequence. Note: The phrases numbered 1 and 6 are fixed.
+
+I had had the car serviced just the previous day, so I didn’t expect what happened next.
+My wife stopped the car and asked me to check where the sound had come from.
+My wife and I were taking a road trip to the other side of the country.
+Just as we crossed out of state limits, we heard a loud pop.
+And no, we had not one, but two punctures, much to the anger of my wife.
+Question 44Answer
+
+a.
+3 1 4 2 5
+
+
+b.
+1 3 4 5 2
+
+
+c.
+1 3 4 2 5
+
+
+d.
+3 1 4 5 2
+Read the passage given below and answer the questions that follow.
+
+The savory smell. The crunchy bite. The salty kick. The buttery finish. Americans will recognize the smell and flavor of their favorite movie going snack anywhere. Why is it that we feast our taste buds on these crisp kernels while our eyes feast on the big screen? A few converging aspects made popcorn the quintessential movie snack, according to Andrew F. Smith, author of Popped Culture: A Social History of Popcorn in America. Mostly, it boiled down to the snack’s price, convenience, and timing. Popcorn was cheap for sellers and for customers, and making it didn’t require a ton of equipment. Popcorn also became popular at a time when movie theatres were in desperate need of an economic boost, which is how popcorn got introduced to the silver screen. Fun fact: popcorn does not refer to the popped kernel alone. It’s also the name for the specific type of corn that is used to make the snack. It was originally grown in Central America and became popular in the U.S. in the mid-1800s. Compared with other snacks at the time, it was super easy to make, and it got easier in 1885 when the mobile steam-powered popcorn maker was invented. What hit the streets in the late 19th century was a fleet of independent popcorn purveyors. They were like the great-great-grandfathers of food trucks.
+
+This passage is primarily concerned with:
+
+Question 45Answer
+
+a.
+Discussing the rise in popularity of popcorn
+
+
+b.
+Discussing the economics of making popcorn
+
+
+c.
+Discussing how popcorn was invented
+
+
+d.
+Debating why popcorn is given so much importance in movie halls
+give the final answer alone for all these questions , no need for any explanations . just give the answer
